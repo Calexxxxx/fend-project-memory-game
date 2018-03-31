@@ -1,5 +1,7 @@
 # Memory Game Project
 
+Create for some students to have a starting guide on how they could handle certain functions not a fully working game.
+
 ## Table of Contents
 
 * [Instructions](#instructions)
